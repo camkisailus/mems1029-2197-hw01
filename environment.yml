@@ -5,7 +5,5 @@ dependencies:
   - python
   - numpy
   - matplotlib
-<<<<<<< HEAD
   - sympy
-=======
->>>>>>> b1836ffa79eebc11f789270cc7db90791bb41b03
+
